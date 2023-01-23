@@ -1,0 +1,36 @@
+Install libsodium-common 1.0.18-1
+Install libsodium23 1.0.18-1
+Install vim 8.2.4372-1
+Install vim-common 8.2.4372-1
+Install xxd 8.2.4372-1
+
+Install binutils 2.39-1
+Install cygwin-devel 3.4.3-1
+Install gcc-core 11.3.0-1
+Install libatomic1 11.3.0-1
+Install libgomp1 11.3.0-1
+Install libisl23 0.25-1
+Install libmpc3 1.3.1-1
+Install libquadmath0 11.3.0-1
+Install w32api-headers 10.0.0-1
+Install w32api-runtime 10.0.0-1
+Install windows-default-manifest 6.4-1
+
+Install libgc1 8.2.2-1
+Install libguile3.0_1 3.0.8-1
+Install make 4.4-1`
+
+Install csih 0.9.11-1
+Install cygrunsrv 1.62-1
+Install git 2.39.0-1
+Install libedit0 20221030-3
+Install libexpat1 2.4.1-1
+Install libfido2 1.12.0-1
+Install libxxhash0 0.8.0-1
+Install openssh 9.1p1-1
+Install perl-Error 0.17029-2
+Install perl-TermReadKey 2.38-3
+Install perl_autorebase 5.32.1-2
+Install perl_base 5.32.1-2
+Install rsync 3.2.7-1
+
